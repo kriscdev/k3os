@@ -1,0 +1,7 @@
+ssh_authorized_keys:
+  - "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDqG7XjFNpCrrk+VJMihJcAtVLlFkLgSCDpDL0Yswjd5YGFXCaO285Cq6IWYJEKZ73z36Q2mTj+fFF0ewutERM8yTVDsbLUTkBGS31P/TGdbs+nyJAbMktXlJA5aWd9v1z2UH0e82oc3/SoQoV5vJ5Y9LFcxKIDVhyYbo/muTbiregygsdKdhZsSIU8ruMa++0NYQ7w9GJas2034fp9kJIi256Xl2+kQLE4bpgpi5mC8vraijt7gEzpLUvMDMFojrEylQsoCLsxBkAIIzG6xjG41WUCwGOtiTi2ktb69pXqRhFqC9OXGQR+leesb1p5zjQLOtrohnGFhtJjdT8NsCi7"
+  - "github:fhirworx"
+dns_nameservers:
+- 10.0.0.1
+- 192.168.1.1
+- 8.8.8.8
